@@ -3,5 +3,9 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
+<<<<<<< HEAD
   <display-name>Archetype Created Web Application Typesdfafasfdasf...</display-name>
+=======
+  <display-name>Archetype Created Web Application Type...</display-name>
+>>>>>>> d243a6b2727949d39cff1cda903db35e4b6740f9
 </web-app>
